@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="top">应用</string>
+    <string name="wechat">微信</string>
+    <string name="a">这是微信聊天界面</string>
+    <string name="b">这是通讯录界面</string>
+    <string name="c">这是发现界面</string>
+    <string name="d">这是我界面</string>
+</resources>
+
